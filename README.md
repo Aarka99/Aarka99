@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Aryan
+Hey, I'm Aaryan
 
 Final-year B.Tech student passionate about Data Science and Analytics. I enjoy working with data, building dashboards, exploring datasets, and turning numbers into meaningful insights. Currently focused on strengthening Machine Learning, Statistics, and real-world data projects to land a Data Science role.
 
